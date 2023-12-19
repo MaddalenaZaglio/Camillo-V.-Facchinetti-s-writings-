@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>PhD_Sources_Facchinetti_La_Provvidenza_in_viaggio.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1732" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1803" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1807" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
+    <OtherTag ID="LT678" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT679" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT680" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT681" LABEL="CustomLine:footnotes" DESCRIPTION="line type CustomLine:footnotes"/><OtherTag ID="LT720" LABEL="DefaultLine:manuscrit" DESCRIPTION="line type DefaultLine:manuscrit"/><OtherTag ID="LT721" LABEL="DefaultLine:print" DESCRIPTION="line type DefaultLine:print"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="1013"
+                   VPOS="92"
+                   WIDTH="228"
+                   HEIGHT="59"
+                   ID="eSc_textblock_d6651a03"
+                   TAGREFS="BT1732">
+          <Shape><Polygon POINTS="1013 92 1013 151 1241 151 1241 92"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eeda138a"
+                    TAGREFS="LT678"
+                    BASELINE="1032 130 1224 129" 
+                    HPOS="1028"
+                    VPOS="90"
+                    WIDTH="193"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1031 148 1218 145 1221 126 1215 93 1028 90 1031 129"/></Shape>
+	    <String CONTENT="-5-"
+                    HPOS="1028"
+                    VPOS="90"
+                    WIDTH="193"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="187"
+                   VPOS="151"
+                   WIDTH="2067"
+                   HEIGHT="3077"
+                   ID="eSc_textblock_4a21843e"
+                   TAGREFS="BT1803">
+          <Shape><Polygon POINTS="187 151 187 3228 2254 3228 2254 151"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b64b13b7"
+                    TAGREFS="LT678"
+                    BASELINE="250 195 2184 184" 
+                    HPOS="247"
+                    VPOS="134"
+                    WIDTH="1937"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2118 165 2090 162 2063 162 2035 162 2008 162 1980 159 1953 159 1925 159 1898 159 1870 156 1843 156 1815 156 1788 156 1760 154 1733 154 1705 154 1677 151 1650 151 1622 151 1595 151 1567 148 1540 148 1512 148 1485 148 1457 145 1430 145 1402 145 1378 145 1369 140 1347 137 1320 134 1213 148 1185 134 1182 134 1180 134 982 148 907 140 907 143 880 145 852 145 825 145 797 145 770 145 742 145 715 148 687 148 660 148 651 148 621 151 577 148 577 148 550 151 522 151 495 151 467 151 440 151 412 151 385 154 357 154 330 154 302 154 275 154 255 151 247 154 250 195 253 225 286 209 2181 206 2184 184 2131 165 2118 165"/></Shape>
+	    <String CONTENT="e il ritorno alle proprie case di quasi tutti i reduci - una settan¬"
+                    HPOS="247"
+                    VPOS="134"
+                    WIDTH="1937"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea727865"
+                    TAGREFS="LT678"
+                    BASELINE="255 255 1763 255" 
+                    HPOS="255"
+                    VPOS="209"
+                    WIDTH="1508"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="258 239 255 255 255 272 1763 272 1763 255 1763 209 275 209 258 239"/></Shape>
+	    <String CONTENT="tina - dalla prigionia e dai campi di concentramento."
+                    HPOS="255"
+                    VPOS="209"
+                    WIDTH="1508"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9911fdc"
+                    TAGREFS="LT678"
+                    BASELINE="401 310 2131 302" 
+                    HPOS="398"
+                    VPOS="253"
+                    WIDTH="1733"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1746 258 1719 258 1691 258 1664 258 1636 258 1609 258 1581 258 1554 258 1526 258 1499 258 1471 258 1444 258 1416 258 1389 258 1361 258 1334 258 1306 258 1279 258 1251 258 1224 258 1196 258 1169 258 1141 258 1114 258 1086 258 1059 258 1031 258 1004 258 976 258 949 258 921 258 894 258 866 258 838 258 811 258 783 258 756 258 728 258 701 258 673 258 646 258 618 258 591 258 563 258 536 258 508 258 481 258 453 258 426 258 398 258 401 310 401 327 2129 319 2131 302 2123 253 1746 253 1746 258"/></Shape>
+	    <String CONTENT="Il paese era parato a festa, con drappi e [[festoni]] e archi di"
+                    HPOS="398"
+                    VPOS="253"
+                    WIDTH="1733"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcb2c2d7"
+                    TAGREFS="LT678"
+                    BASELINE="261 365 2131 365" 
+                    HPOS="261"
+                    VPOS="313"
+                    WIDTH="1870"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="261 365 261 382 2131 382 2131 365 2131 324 261 313 261 365"/></Shape>
+	    <String CONTENT="trionfo e bandiere tricolori e papali, che ne avevano trasformata"
+                    HPOS="261"
+                    VPOS="313"
+                    WIDTH="1870"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_638b5b09"
+                    TAGREFS="LT678"
+                    BASELINE="258 426 2208 418" 
+                    HPOS="255"
+                    VPOS="376"
+                    WIDTH="1953"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="258 426 258 437 2208 431 2208 418 2200 376 255 382 258 426"/></Shape>
+	    <String CONTENT="addirittura la fisionomia, d’ordinario così poco elegante ed attraen¬"
+                    HPOS="255"
+                    VPOS="376"
+                    WIDTH="1953"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02dd7b70"
+                    TAGREFS="LT678"
+                    BASELINE="266 484 2186 478" 
+                    HPOS="264"
+                    VPOS="431"
+                    WIDTH="1922"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="266 484 266 497 2184 492 2186 478 2181 437 264 431 266 484"/></Shape>
+	    <String CONTENT="te. La popolazione era tutta lì, ad attendermi attorno alla casa pa¬"
+                    HPOS="264"
+                    VPOS="431"
+                    WIDTH="1922"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e97f3ad5"
+                    TAGREFS="LT678"
+                    BASELINE="269 544 2148 536" 
+                    HPOS="266"
+                    VPOS="489"
+                    WIDTH="1882"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="269 544 269 558 2145 550 2148 536 2142 492 266 489 269 544"/></Shape>
+	    <String CONTENT="terna, donde si sarebbe mosso il corteo per la chiesa parrocchiale."
+                    HPOS="266"
+                    VPOS="489"
+                    WIDTH="1882"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c455a623"
+                    TAGREFS="LT678"
+                    BASELINE="272 605 2208 588" 
+                    HPOS="269"
+                    VPOS="544"
+                    WIDTH="1939"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="272 605 272 618 2206 605 2208 588 2200 544 269 552 272 605"/></Shape>
+	    <String CONTENT="E quale non fu la mia sorpresa, quando, nel cortile, accanto ai paren¬"
+                    HPOS="269"
+                    VPOS="544"
+                    WIDTH="1939"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f812f10"
+                    TAGREFS="LT678"
+                    BASELINE="272 662 2208 649" 
+                    HPOS="269"
+                    VPOS="594"
+                    WIDTH="1939"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1534 596 1507 596 1479 596 1452 596 1424 596 1413 596 1369 607 1367 607 1358 607 1204 599 1204 599 1177 599 1149 599 1130 599 1050 610 1039 610 1006 610 775 602 764 602 737 602 709 602 687 602 657 613 651 616 269 616 272 662 272 673 2206 662 2208 649 2203 605 1545 594 1534 596"/></Shape>
+	    <String CONTENT="ti, al clero, alle Autorità, scorsi un folto gruppo di fanciulle tri¬"
+                    HPOS="269"
+                    VPOS="594"
+                    WIDTH="1939"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83ba0bd9"
+                    TAGREFS="LT678"
+                    BASELINE="272 720 2225 709" 
+                    HPOS="269"
+                    VPOS="660"
+                    WIDTH="1956"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2203 660 269 668 272 720 272 739 2222 726 2225 709 2217 668 2203 660"/></Shape>
+	    <String CONTENT="poline, ospiti delle Suore della vicina borgata di Trescore Balneario,"
+                    HPOS="269"
+                    VPOS="660"
+                    WIDTH="1956"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caa21217"
+                    TAGREFS="LT678"
+                    BASELINE="277 778 2200 764" 
+                    HPOS="275"
+                    VPOS="712"
+                    WIDTH="1925"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="2175 715 1735 712 1733 715 1705 715 1677 715 1650 715 1622 715 1595 715 1567 715 1540 715 1512 715 1485 715 1457 715 1430 715 1402 715 1375 715 1347 715 1320 715 1292 715 1265 715 1237 717 1210 717 1182 717 1155 717 1127 717 1100 717 1072 717 1045 717 1023 717 1001 723 844 717 825 717 797 717 770 717 742 720 715 720 687 720 660 720 632 720 605 720 577 720 550 720 522 720 506 720 275 728 277 778 277 786 2200 781 2200 764 2197 759 2175 715"/></Shape>
+	    <String CONTENT="e, accorse, tutte giulive nella loro simpatica divisa da collegiali,"
+                    HPOS="275"
+                    VPOS="712"
+                    WIDTH="1925"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d71e24f"
+                    TAGREFS="LT678"
+                    BASELINE="275 836 1402 822" 
+                    HPOS="272"
+                    VPOS="772"
+                    WIDTH="1130"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1042 775 1015 775 987 775 960 775 932 775 905 775 877 775 850 775 822 775 794 775 767 775 739 775 712 775 684 775 657 778 629 778 602 778 574 778 572 778 272 789 275 836 275 849 1400 836 1402 822 1397 778 1056 772 1042 775"/></Shape>
+	    <String CONTENT="a salutare ed acclamare il loro Vescovo."
+                    HPOS="272"
+                    VPOS="772"
+                    WIDTH="1130"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5735d01"
+                    TAGREFS="LT678"
+                    BASELINE="420 885 2153 874" 
+                    HPOS="418"
+                    VPOS="816"
+                    WIDTH="1735"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="693 833 665 833 638 833 610 833 583 833 555 833 528 833 500 833 473 836 445 836 418 836 420 885 420 904 2151 888 2153 874 2148 830 1719 816 1716 816 1713 816 1711 816 1697 830 1694 833 720 833 693 833"/></Shape>
+	    <String CONTENT="In chiesa, una delle più belle e devote della Diocesi, sobria¬"
+                    HPOS="418"
+                    VPOS="816"
+                    WIDTH="1735"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2267254"
+                    TAGREFS="LT678"
+                    BASELINE="275 940 2156 929" 
+                    HPOS="272"
+                    VPOS="885"
+                    WIDTH="1884"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="272 902 275 940 275 957 2153 951 2156 929 2148 885 272 893 272 902"/></Shape>
+	    <String CONTENT="mente addobbata, le funzioni religiose[[,]] si svolsero - tra musiche e"
+                    HPOS="272"
+                    VPOS="885"
+                    WIDTH="1884"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dac1c3f9"
+                    TAGREFS="LT678"
+                    BASELINE="283 998 2123 981" 
+                    HPOS="280"
+                    VPOS="940"
+                    WIDTH="1843"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="283 998 283 1014 2120 1001 2123 981 2115 940 280 954 283 998"/></Shape>
+	    <String CONTENT="canti, eseguiti con gran maestria da una numerosa ed affiatatissima"
+                    HPOS="280"
+                    VPOS="940"
+                    WIDTH="1843"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2aa02d3"
+                    TAGREFS="LT678"
+                    BASELINE="277 1056 2208 1036" 
+                    HPOS="275"
+                    VPOS="992"
+                    WIDTH="1933"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="277 1056 277 1067 2208 1050 2208 1036 2200 992 275 1009 277 1056"/></Shape>
+	    <String CONTENT="orchestra, composta di elementi locali, rinforzata da strumenti ad ar¬"
+                    HPOS="275"
+                    VPOS="992"
+                    WIDTH="1933"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebc756b2"
+                    TAGREFS="LT678"
+                    BASELINE="286 1113 2129 1097" 
+                    HPOS="283"
+                    VPOS="1050"
+                    WIDTH="1846"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1053 1050 1026 1050 998 1050 971 1050 943 1050 916 1050 888 1050 861 1050 833 1050 805 1053 778 1053 750 1053 723 1053 695 1053 668 1053 640 1053 613 1053 585 1053 283 1067 286 1113 286 1127 2126 1111 2129 1097 2123 1050 1081 1050 1053 1050"/></Shape>
+	    <String CONTENT="co della vicina città, - con dignità, puntualità e decoro, degni di"
+                    HPOS="283"
+                    VPOS="1050"
+                    WIDTH="1846"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef166d52"
+                    TAGREFS="LT678"
+                    BASELINE="283 1168 717 1163" 
+                    HPOS="280"
+                    VPOS="1116"
+                    WIDTH="437"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="283 1168 283 1182 715 1177 717 1163 709 1116 280 1116 283 1168"/></Shape>
+	    <String CONTENT="una Cattedrale."
+                    HPOS="280"
+                    VPOS="1116"
+                    WIDTH="437"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ca8c59e"
+                    TAGREFS="LT678"
+                    BASELINE="426 1221 2206 1204" 
+                    HPOS="423"
+                    VPOS="1157"
+                    WIDTH="1783"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="426 1221 426 1234 2203 1218 2206 1204 2197 1157 423 1168 426 1221"/></Shape>
+	    <String CONTENT="⬪ Cantò la Messa giubilare il festeggiato ed al Vange¬"
+                    HPOS="423"
+                    VPOS="1157"
+                    WIDTH="1783"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c26f57ab"
+                    TAGREFS="LT678"
+                    BASELINE="286 1273 2206 1259" 
+                    HPOS="283"
+                    VPOS="1218"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="695 1221 668 1221 640 1221 613 1221 585 1221 558 1221 530 1221 503 1221 475 1221 448 1221 445 1218 283 1218 286 1273 286 1284 2206 1273 2206 1259 2197 1218 701 1218 695 1221"/></Shape>
+	    <String CONTENT="lo tenne dal pulpito, davanti e quella folla immensa, raccolta e de¬"
+                    HPOS="283"
+                    VPOS="1218"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2419151a"
+                    TAGREFS="LT678"
+                    BASELINE="294 1333 2222 1317" 
+                    HPOS="291"
+                    VPOS="1270"
+                    WIDTH="1931"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="294 1333 294 1344 2222 1331 2222 1317 2214 1270 291 1276 294 1333"/></Shape>
+	    <String CONTENT="vota, un magnifico discorso, tutto vibrante di patriottismo e di fede,"
+                    HPOS="291"
+                    VPOS="1270"
+                    WIDTH="1931"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_973b1d14"
+                    TAGREFS="LT678"
+                    BASELINE="294 1386 2181 1366" 
+                    HPOS="291"
+                    VPOS="1320"
+                    WIDTH="1890"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2052 1320 2024 1320 1997 1320 1969 1320 1942 1320 1914 1320 1887 1322 1878 1322 1867 1325 1865 1325 1859 1325 1812 1322 1804 1322 1777 1322 1749 1322 1722 1322 1694 1322 1666 1322 1639 1322 1631 1322 1606 1328 1600 1328 1581 1328 1526 1325 1501 1325 1474 1325 1446 1325 1419 1325 1391 1325 1364 1325 1356 1325 1350 1331 1347 1331 1336 1331 1292 1325 1281 1325 1254 1328 1226 1328 1199 1328 1171 1328 1144 1328 1116 1328 1089 1328 1061 1328 1034 1328 1006 1328 979 1328 951 1328 924 1331 896 1331 869 1331 841 1331 814 1331 786 1331 759 1331 731 1331 704 1331 698 1331 599 1331 594 1333 566 1333 561 1333 291 1336 294 1386 294 1399 2178 1380 2181 1366 2175 1325 2076 1320 2052 1320"/></Shape>
+	    <String CONTENT="un religioso carmelitano, oriundo del paese e reduce anche lui dalla"
+                    HPOS="291"
+                    VPOS="1320"
+                    WIDTH="1890"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_182d835e"
+                    TAGREFS="LT678"
+                    BASELINE="294 1443 2175 1421" 
+                    HPOS="291"
+                    VPOS="1377"
+                    WIDTH="1884"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="294 1443 294 1460 2173 1432 2175 1421 2167 1377 291 1397 294 1443"/></Shape>
+	    <String CONTENT="guerra, come i bravi giovanotti, che servivano, con edificante pie¬"
+                    HPOS="291"
+                    VPOS="1377"
+                    WIDTH="1884"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_263ce117"
+                    TAGREFS="LT678"
+                    BASELINE="299 1496 2203 1471" 
+                    HPOS="297"
+                    VPOS="1430"
+                    WIDTH="1906"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="299 1496 299 1509 2200 1485 2203 1471 2195 1430 297 1443 299 1496"/></Shape>
+	    <String CONTENT="tà all&#39;altare. Così come saranno fieri ed orgogliosi di portare a tur¬"
+                    HPOS="297"
+                    VPOS="1430"
+                    WIDTH="1906"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_102f4942"
+                    TAGREFS="LT678"
+                    BASELINE="297 1551 2200 1531" 
+                    HPOS="294"
+                    VPOS="1474"
+                    WIDTH="1906"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1972 1476 1944 1476 1917 1476 1914 1476 1906 1487 1768 1476 1752 1479 1724 1479 1697 1479 1669 1479 1642 1479 1614 1479 1603 1479 1581 1479 1559 1482 1532 1482 1504 1482 1477 1482 1457 1482 1345 1482 1339 1485 1312 1485 294 1501 297 1551 297 1556 2200 1548 2200 1531 2195 1487 1972 1474 1972 1476"/></Shape>
+	    <String CONTENT="no sulle proprie spalle e di fiancheggiarlo, quali guardie d’onore, il"
+                    HPOS="294"
+                    VPOS="1474"
+                    WIDTH="1906"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b117963"
+                    TAGREFS="LT678"
+                    BASELINE="302 1606 2219 1589" 
+                    HPOS="299"
+                    VPOS="1537"
+                    WIDTH="1920"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1647 1540 1620 1540 1592 1540 1565 1540 1537 1540 1510 1540 1482 1540 1455 1540 1427 1540 1400 1540 1372 1542 1345 1542 1317 1542 1290 1542 1262 1542 1235 1542 1207 1542 1180 1542 1177 1542 1125 1548 1081 1545 1070 1545 1042 1545 1015 1545 987 1545 960 1545 932 1545 924 1545 913 1551 723 1548 712 1548 684 1548 657 1548 629 1548 602 1548 574 1548 547 1551 519 1551 492 1551 464 1551 437 1551 409 1551 382 1551 354 1551 327 1551 319 1551 299 1556 302 1606 302 1619 2217 1606 2219 1589 2214 1542 1666 1537 1647 1540"/></Shape>
+	    <String CONTENT="simulacro di Maria, recato in devotissima processione, nel pomeriggio,"
+                    HPOS="299"
+                    VPOS="1537"
+                    WIDTH="1920"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9d0c95b"
+                    TAGREFS="LT678"
+                    BASELINE="302 1658 2200 1636" 
+                    HPOS="299"
+                    VPOS="1592"
+                    WIDTH="1901"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="302 1658 302 1672 2197 1650 2200 1636 2192 1592 299 1611 302 1658"/></Shape>
+	    <String CONTENT="attraverso le vie del viIIaggio, inondate e rallegrate da un sole stu¬"
+                    HPOS="299"
+                    VPOS="1592"
+                    WIDTH="1901"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1abce184"
+                    TAGREFS="LT678"
+                    BASELINE="302 1716 2200 1691" 
+                    HPOS="299"
+                    VPOS="1644"
+                    WIDTH="1901"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="302 1716 302 1729 2197 1707 2200 1691 2192 1644 299 1666 302 1716"/></Shape>
+	    <String CONTENT="pendo, tra inni e cantici di tutto il popolo devoto, accompagna⬪ in"
+                    HPOS="299"
+                    VPOS="1644"
+                    WIDTH="1901"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e7181c9"
+                    TAGREFS="LT678"
+                    BASELINE="308 1765 2195 1749" 
+                    HPOS="305"
+                    VPOS="1699"
+                    WIDTH="1890"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="308 1765 308 1773 2195 1757 2195 1749 2186 1699 305 1716 308 1765"/></Shape>
+	    <String CONTENT="tripudio dallo squillo delle campane e dal suono armonioso e rumoroso"
+                    HPOS="305"
+                    VPOS="1699"
+                    WIDTH="1890"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_872e1769"
+                    TAGREFS="LT678"
+                    BASELINE="308 1820 2175 1801" 
+                    HPOS="305"
+                    VPOS="1754"
+                    WIDTH="1870"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="308 1820 308 1828 2175 1809 2175 1801 2167 1754 305 1771 308 1820"/></Shape>
+	    <String CONTENT="della &quot;Banda di Grumello del Monte&quot; - che eseguirà a funzioni ultima¬"
+                    HPOS="305"
+                    VPOS="1754"
+                    WIDTH="1870"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a92bfed"
+                    TAGREFS="LT678"
+                    BASELINE="310 1875 1757 1856" 
+                    HPOS="308"
+                    VPOS="1812"
+                    WIDTH="1449"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 1875 310 1886 1543 1886 1543 1883 1545 1883 1548 1883 1548 1881 1551 1881 1559 1870 1683 1881 1686 1881 1757 1864 1757 1856 1749 1812 308 1823 310 1875"/></Shape>
+	    <String CONTENT="te, un applaudito concerto, sul sagrato della Chiesa."
+                    HPOS="308"
+                    VPOS="1812"
+                    WIDTH="1449"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04c39047"
+                    TAGREFS="LT678"
+                    BASELINE="475 1927 2142 1908" 
+                    HPOS="473"
+                    VPOS="1848"
+                    WIDTH="1669"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1711 1859 1683 1859 1655 1859 1628 1859 1600 1859 1573 1859 1545 1861 1518 1861 1490 1861 1466 1861 1460 1867 1397 1861 1380 1861 1353 1861 1325 1864 1298 1864 1276 1864 1243 1870 1221 1864 1215 1864 1188 1864 1160 1864 1133 1867 1105 1867 1078 1867 1050 1867 1023 1867 905 1875 833 1870 830 1870 803 1870 775 1870 748 1870 720 1872 693 1872 665 1872 638 1872 610 1872 596 1872 536 1878 519 1872 500 1875 473 1875 475 1927 475 1947 2140 1919 2142 1908 2137 1864 1900 1848 1898 1848 1832 1861 1713 1859 1711 1859"/></Shape>
+	    <String CONTENT="II suo debutto, veramente, la musica, l’aveva voluto fare poco"
+                    HPOS="473"
+                    VPOS="1848"
+                    WIDTH="1669"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b906e46f"
+                    TAGREFS="LT678"
+                    BASELINE="308 1988 1356 1966 2112 1966" 
+                    HPOS="305"
+                    VPOS="1914"
+                    WIDTH="1807"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1873 1914 1845 1914 1818 1914 1790 1914 1763 1914 1735 1914 1708 1914 1680 1914 1653 1916 1625 1916 1598 1916 1570 1916 1543 1916 1515 1916 1488 1916 1460 1916 1433 1916 1405 1919 1378 1919 1350 1919 1323 1919 1295 1919 1268 1919 1240 1919 1213 1919 1185 1922 1158 1922 1130 1922 1103 1922 1075 1922 1048 1922 1020 1922 993 1922 973 1922 951 1922 938 1925 924 1925 830 1930 783 1925 772 1925 745 1925 717 1925 690 1927 662 1927 635 1927 607 1927 580 1927 572 1927 305 1938 308 1988 308 2004 2109 1974 2112 1966 2109 1914 1900 1914 1873 1914"/></Shape>
+	    <String CONTENT="prima, con gradita improvvisata, in casa Facchinetti, dove attorno"
+                    HPOS="305"
+                    VPOS="1914"
+                    WIDTH="1807"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eacf2be0"
+                    TAGREFS="LT678"
+                    BASELINE="316 2037 2197 2013" 
+                    HPOS="313"
+                    VPOS="1969"
+                    WIDTH="1884"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="316 2037 316 2059 2197 2021 2197 2013 2189 1969 313 1991 316 2037"/></Shape>
+	    <String CONTENT="al carissimo zio e al nipote Vescovo, si raccolsero, con il Clero lo¬"
+                    HPOS="313"
+                    VPOS="1969"
+                    WIDTH="1884"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbe901ba"
+                    TAGREFS="LT678"
+                    BASELINE="316 2092 2118 2070" 
+                    HPOS="313"
+                    VPOS="2021"
+                    WIDTH="1805"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1551 2024 1523 2024 1496 2024 1468 2024 1441 2024 1413 2024 1386 2024 1358 2026 1331 2026 1303 2026 1276 2026 1248 2026 1221 2026 1193 2026 1166 2026 1138 2029 1111 2029 1083 2029 1056 2029 1028 2029 1001 2029 973 2029 946 2029 918 2032 891 2032 863 2032 841 2032 473 2043 420 2037 396 2037 368 2037 346 2037 313 2046 316 2092 316 2103 2115 2081 2118 2070 2112 2024 1567 2021 1551 2024"/></Shape>
+	    <String CONTENT="cale, parenti ed amici, per un lauto banchetto, che non ci permise"
+                    HPOS="313"
+                    VPOS="2021"
+                    WIDTH="1805"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0188a15e"
+                    TAGREFS="LT678"
+                    BASELINE="316 2145 2162 2117" 
+                    HPOS="313"
+                    VPOS="2073"
+                    WIDTH="1849"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="316 2145 316 2158 2159 2134 2162 2117 2153 2073 313 2098 316 2145"/></Shape>
+	    <String CONTENT="davvero di pensare alla guerra ed alle sue conseguenze, organizzato"
+                    HPOS="313"
+                    VPOS="2073"
+                    WIDTH="1849"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6546a2d8"
+                    TAGREFS="LT678"
+                    BASELINE="319 2197 2189 2172" 
+                    HPOS="316"
+                    VPOS="2125"
+                    WIDTH="1873"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="319 2197 319 2205 2189 2191 2189 2172 2181 2125 316 2150 319 2197"/></Shape>
+	    <String CONTENT="ed offerto signorilmente dal fratello Antonto, anche per celebrare il"
+                    HPOS="316"
+                    VPOS="2125"
+                    WIDTH="1873"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2de9ac7"
+                    TAGREFS="LT678"
+                    BASELINE="319 2246 2167 2227" 
+                    HPOS="316"
+                    VPOS="2183"
+                    WIDTH="1851"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="319 2246 319 2266 1639 2266 1639 2263 2164 2244 2167 2227 2159 2183 316 2200 319 2246"/></Shape>
+	    <String CONTENT="ritorno del figlio &quot;Franco&quot; dalla Germania e le proprie nozze d’ar¬"
+                    HPOS="316"
+                    VPOS="2183"
+                    WIDTH="1851"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_361a220c"
+                    TAGREFS="LT678"
+                    BASELINE="316 2307 492 2299" 
+                    HPOS="313"
+                    VPOS="2255"
+                    WIDTH="179"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 2266 316 2307 316 2318 492 2318 492 2299 484 2255 316 2260 313 2266"/></Shape>
+	    <String CONTENT="gento."
+                    HPOS="313"
+                    VPOS="2255"
+                    WIDTH="179"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf54193c"
+                    TAGREFS="LT678"
+                    BASELINE="514 2351 2118 2329" 
+                    HPOS="511"
+                    VPOS="2266"
+                    WIDTH="1607"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="514 2351 514 2370 2115 2343 2118 2329 2109 2266 2016 2279 1997 2268 1997 2266 1994 2266 1991 2266 1988 2266 1950 2268 1832 2279 1815 2271 1807 2268 1804 2268 1801 2268 1799 2268 1796 2268 1793 2271 1777 2282 1738 2274 1713 2268 1711 2268 1708 2268 1683 2274 1631 2290 1402 2290 1372 2282 1345 2274 1342 2274 1339 2274 1336 2274 1309 2285 1281 2293 1232 2285 1177 2277 1174 2277 1171 2277 1136 2288 1108 2296 1083 2288 1053 2279 1050 2279 1048 2279 960 2293 907 2301 511 2301 514 2351"/></Shape>
+	    <String CONTENT="Quanto mi sono goduto quelle belle ore serene nella diletta"
+                    HPOS="511"
+                    VPOS="2266"
+                    WIDTH="1607"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12f83fae"
+                    TAGREFS="LT678"
+                    BASELINE="324 2403 2219 2378" 
+                    HPOS="321"
+                    VPOS="2337"
+                    WIDTH="1898"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2208 2337 321 2359 324 2403 324 2417 2219 2392 2219 2378 2211 2340 2208 2337"/></Shape>
+	    <String CONTENT="casa paterna, dove ebbi la mia culla e trascorsi la mia infanzia spen¬"
+                    HPOS="321"
+                    VPOS="2337"
+                    WIDTH="1898"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d12106a"
+                    TAGREFS="LT678"
+                    BASELINE="327 2461 2140 2433" 
+                    HPOS="324"
+                    VPOS="2381"
+                    WIDTH="1816"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2002 2384 1975 2384 1964 2384 1942 2392 1939 2392 1936 2392 1870 2384 1865 2384 1837 2384 1829 2384 1768 2395 1757 2395 1738 2395 1639 2387 1617 2387 1589 2387 1559 2395 1548 2400 324 2406 327 2461 327 2477 2137 2455 2140 2433 2134 2392 2021 2381 2002 2384"/></Shape>
+	    <String CONTENT="sierata e gioconda, e mi incontrai un’altra volta, - dopo tre anni di"
+                    HPOS="324"
+                    VPOS="2381"
+                    WIDTH="1816"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7443f8c"
+                    TAGREFS="LT678"
+                    BASELINE="327 2513 2137 2488" 
+                    HPOS="324"
+                    VPOS="2444"
+                    WIDTH="1813"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="327 2513 327 2527 2134 2502 2137 2488 2129 2444 324 2461 327 2513"/></Shape>
+	    <String CONTENT="forzata separazione, con la mamma e tante care persone! La veneranda"
+                    HPOS="324"
+                    VPOS="2444"
+                    WIDTH="1813"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76eda295"
+                    TAGREFS="LT678"
+                    BASELINE="327 2565 2219 2535" 
+                    HPOS="324"
+                    VPOS="2494"
+                    WIDTH="1895"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="327 2565 327 2576 2217 2549 2219 2535 2211 2494 324 2516 327 2565"/></Shape>
+	    <String CONTENT="genitrice, più che ottantenne, ma che ritrovai ancora vegeta ed arzil¬"
+                    HPOS="324"
+                    VPOS="2494"
+                    WIDTH="1895"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_952591b9"
+                    TAGREFS="LT678"
+                    BASELINE="327 2618 2162 2587" 
+                    HPOS="324"
+                    VPOS="2543"
+                    WIDTH="1838"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="327 2618 327 2634 2159 2601 2162 2587 2153 2543 324 2565 327 2618"/></Shape>
+	    <String CONTENT="la e quasi rinata a nuova vita dopo una recente operazione chirurgi¬"
+                    HPOS="324"
+                    VPOS="2543"
+                    WIDTH="1838"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9563b72e"
+                    TAGREFS="LT678"
+                    BASELINE="330 2667 2162 2640" 
+                    HPOS="327"
+                    VPOS="2596"
+                    WIDTH="1835"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="330 2667 330 2678 2159 2653 2162 2640 2153 2596 327 2620 330 2667"/></Shape>
+	    <String CONTENT="ca, era particolarmente felice di rivedere il suo diletto Padre Vit¬"
+                    HPOS="327"
+                    VPOS="2596"
+                    WIDTH="1835"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e7e8777"
+                    TAGREFS="LT678"
+                    BASELINE="332 2719 2189 2692" 
+                    HPOS="330"
+                    VPOS="2648"
+                    WIDTH="1859"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="332 2719 332 2728 2186 2711 2189 2692 2181 2648 330 2670 332 2719"/></Shape>
+	    <String CONTENT="torino e per il coincidere di tante festevoli ricorrenze. E più lieta"
+                    HPOS="330"
+                    VPOS="2648"
+                    WIDTH="1859"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_230081cf"
+                    TAGREFS="LT678"
+                    BASELINE="330 2772 2186 2744" 
+                    HPOS="327"
+                    VPOS="2697"
+                    WIDTH="1859"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="330 2772 330 2780 2186 2758 2186 2744 2178 2697 327 2722 330 2772"/></Shape>
+	    <String CONTENT="ancora di poterlo accompagnare la sera stessa a Bergamo - passando ⬪a"
+                    HPOS="327"
+                    VPOS="2697"
+                    WIDTH="1859"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e56874eb"
+                    TAGREFS="LT678"
+                    BASELINE="330 2824 2162 2791" 
+                    HPOS="327"
+                    VPOS="2747"
+                    WIDTH="1835"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="330 2824 330 2835 2159 2802 2162 2791 2153 2747 327 2777 330 2824"/></Shape>
+	    <String CONTENT="Trescore ho voluto ricambiare la visita alle care tripoline, che an¬"
+                    HPOS="327"
+                    VPOS="2747"
+                    WIDTH="1835"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65b2a2f8"
+                    TAGREFS="LT678"
+                    BASELINE="332 2873 2184 2846" 
+                    HPOS="330"
+                    VPOS="2802"
+                    WIDTH="1854"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="332 2873 332 2887 2181 2857 2184 2846 2175 2802 330 2827 332 2873"/></Shape>
+	    <String CONTENT="darono in visibilio - dove sapeva che avrebbe potuto goderselo in pa¬"
+                    HPOS="330"
+                    VPOS="2802"
+                    WIDTH="1854"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c45ac1f"
+                    TAGREFS="LT678"
+                    BASELINE="335 2928 2181 2895" 
+                    HPOS="332"
+                    VPOS="2849"
+                    WIDTH="1849"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="335 2928 335 2939 2178 2906 2181 2895 2173 2849 332 2879 335 2928"/></Shape>
+	    <String CONTENT="ce per una settimana. E fu davvero un lietissimo soggiorno quello no¬"
+                    HPOS="332"
+                    VPOS="2849"
+                    WIDTH="1849"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3df95225"
+                    TAGREFS="LT678"
+                    BASELINE="338 2978 2162 2948" 
+                    HPOS="335"
+                    VPOS="2901"
+                    WIDTH="1827"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="338 2978 338 2989 2162 2956 2162 2948 2153 2901 335 2928 338 2978"/></Shape>
+	    <String CONTENT="stro presso le sorelle, nella silenziosa viIIetta di Santa Maria As¬"
+                    HPOS="335"
+                    VPOS="2901"
+                    WIDTH="1827"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b19c89c8"
+                    TAGREFS="LT678"
+                    BASELINE="341 3027 2112 3000" 
+                    HPOS="338"
+                    VPOS="2956"
+                    WIDTH="1774"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="341 3027 341 3041 2109 3011 2112 3000 2104 2956 338 2981 341 3027"/></Shape>
+	    <String CONTENT="sunta, dove è nato l’Istituto delle piccole Apostole dellex Scuola"
+                    HPOS="338"
+                    VPOS="2956"
+                    WIDTH="1774"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f949d39"
+                    TAGREFS="LT678"
+                    BASELINE="341 3074 2178 3055" 
+                    HPOS="338"
+                    VPOS="3014"
+                    WIDTH="1840"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="341 3074 341 3088 2178 3069 2178 3055 2170 3014 338 3030 341 3074"/></Shape>
+	    <String CONTENT="Cristiana, di recente fondazione, ma che penso destinato ad un fulgi¬"
+                    HPOS="338"
+                    VPOS="3014"
+                    WIDTH="1840"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffc5feaf"
+                    TAGREFS="LT678"
+                    BASELINE="346 3121 2195 3102" 
+                    HPOS="343"
+                    VPOS="3055"
+                    WIDTH="1852"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2159 3058 2131 3058 2104 3058 2076 3058 2049 3058 2021 3058 1999 3058 1925 3058 1911 3060 1884 3060 1856 3060 1829 3060 1815 3060 1636 3060 1636 3063 1631 3063 343 3080 346 3121 346 3143 2195 3115 2195 3102 2186 3055 2159 3055 2159 3058"/></Shape>
+	    <String CONTENT="do avvenire, date le sue finalità altamente provvidenziali per le No¬"
+                    HPOS="343"
+                    VPOS="3055"
+                    WIDTH="1852"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4318526"
+                    TAGREFS="LT678"
+                    BASELINE="343 3179 1964 3154" 
+                    HPOS="341"
+                    VPOS="3113"
+                    WIDTH="1623"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1939 3113 341 3132 343 3179 343 3198 698 3212 701 3212 827 3198 852 3195 877 3195 987 3206 990 3206 1188 3195 1295 3190 1570 3192 1779 3195 1782 3195 1785 3195 1796 3192 1840 3179 1961 3190 1964 3154 1961 3148 1939 3113"/></Shape>
+	    <String CONTENT="stre Cattoliche, e la sua organizzazione genialmente moderna."
+                    HPOS="341"
+                    VPOS="3113"
+                    WIDTH="1623"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

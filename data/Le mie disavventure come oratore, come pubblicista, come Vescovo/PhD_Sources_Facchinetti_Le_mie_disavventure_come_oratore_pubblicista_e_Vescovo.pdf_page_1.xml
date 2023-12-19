@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>PhD_Sources_Facchinetti_Le_mie_disavventure_come_oratore_pubblicista_e_Vescovo.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1750" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1801" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1802" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT692" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT693" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT694" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT695" LABEL="CustomLine:footnotes" DESCRIPTION="line type CustomLine:footnotes"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="385"
+                   VPOS="340"
+                   WIDTH="1903"
+                   HEIGHT="2586"
+                   ID="eSc_textblock_e7fa7d81"
+                   TAGREFS="BT1750">
+          <Shape><Polygon POINTS="385 340 385 2926 2288 2926 2288 340"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_91efe34b"
+                    TAGREFS="LT693"
+                    BASELINE="629 486 1672 497" 
+                    HPOS="627"
+                    VPOS="429"
+                    WIDTH="1045"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1620 451 1592 451 1565 451 1537 451 1510 451 1482 451 1455 451 1427 451 1400 448 1372 448 1345 448 1317 448 1290 448 1262 448 1235 448 1207 448 1180 448 1152 445 1125 445 1097 445 1070 445 1042 445 1015 445 987 445 960 445 932 445 905 445 877 442 850 442 822 442 794 442 767 442 739 442 712 442 684 442 657 442 654 429 629 429 629 486 627 506 1666 517 1672 497 1672 451 1647 451"/></Shape>
+	    <String CONTENT="MONSIGNOR CAMILLO VITTORINO FACCHINETTI"
+                    HPOS="627"
+                    VPOS="429"
+                    WIDTH="1045"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0d2a161"
+                    TAGREFS="LT693"
+                    BASELINE="761 588 1545 602" 
+                    HPOS="759"
+                    VPOS="528"
+                    WIDTH="786"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1537 550 761 528 761 588 759 605 1540 618 1545 602 1545 599 1537 550"/></Shape>
+	    <String CONTENT="Vicario Apostolico di Tripoli"
+                    HPOS="759"
+                    VPOS="528"
+                    WIDTH="786"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c333640"
+                    TAGREFS="LT693"
+                    BASELINE="737 1157 1246 1157" 
+                    HPOS="737"
+                    VPOS="1111"
+                    WIDTH="509"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1232 1111 1204 1111 1177 1111 1149 1111 753 1111 737 1127 737 1157 737 1177 1243 1182 1246 1157 1246 1111 1232 1111"/></Shape>
+	    <String CONTENT="Le mie disavventure"
+                    HPOS="737"
+                    VPOS="1111"
+                    WIDTH="509"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf8019e7"
+                    TAGREFS="LT693"
+                    BASELINE="1210 1218 1636 1218" 
+                    HPOS="1206"
+                    VPOS="1179"
+                    WIDTH="430"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1595 1179 1567 1179 1540 1179 1512 1179 1485 1179 1457 1179 1430 1179 1402 1179 1375 1179 1347 1179 1320 1179 1292 1179 1206 1181 1212 1220 1226 1207 1210 1218 1210 1237 1636 1237 1636 1218 1636 1182 1622 1179"/></Shape>
+	    <String CONTENT="come pubblicista"
+                    HPOS="1206"
+                    VPOS="1179"
+                    WIDTH="430"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad6f3c3e"
+                    TAGREFS="LT693"
+                    BASELINE="1389 1265 1702 1270" 
+                    HPOS="1386"
+                    VPOS="1221"
+                    WIDTH="316"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1691 1243 1672 1221 1545 1221 1526 1221 1499 1221 1471 1221 1444 1221 1416 1221 1391 1254 1389 1265 1386 1281 1697 1287 1702 1270 1694 1245 1691 1243"/></Shape>
+	    <String CONTENT="come oratore"
+                    HPOS="1386"
+                    VPOS="1221"
+                    WIDTH="316"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22b1d0d4"
+                    TAGREFS="LT693"
+                    BASELINE="1562 1327 1884 1314" 
+                    HPOS="1556"
+                    VPOS="1265"
+                    WIDTH="325"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1559 1325 1559 1339 1881 1331 1881 1311 1873 1265 1556 1276 1559 1325"/></Shape>
+	    <String CONTENT="come Vescovo"
+                    HPOS="1556"
+                    VPOS="1265"
+                    WIDTH="325"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1277"
+                   VPOS="123"
+                   WIDTH="7"
+                   HEIGHT="14"
+                   ID="eSc_textblock_11406c06"
+                   >
+          <Shape><Polygon POINTS="1284 137 1284 123 1277 123 1277 137"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
