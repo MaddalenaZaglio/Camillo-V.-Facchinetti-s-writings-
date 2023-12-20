@@ -1,0 +1,32 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: Camillo-V.-Facchinetti-s-writings
+url: https://github.com/MaddalenaZaglio/Camillo-V.-Facchinetti-s-writings-
+authors:
+  - name: Maddalena
+    surname: Zaglio
+    roles:
+      - transcriber
+      - project-manager
+institutions: []
+description: 'Four writings by Apostolic Vicar of Tripolitania, Libya (1936-1950). '
+project-name: FoNDUE
+language:
+  - ita
+production-software: EScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1936'
+  notAfter: '1950'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 20

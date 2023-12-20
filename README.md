@@ -1,5 +1,7 @@
 # Camillo V. Facchinetti's writings 
 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
  Here are four unpublished writings by Camillo Vittorino Facchinetti, Apostolic Vicar of Tripolitania, Libya, from 1936 to 1950.
 
 ## DATA
