@@ -1,32 +1,131 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: Camillo-V.-Facchinetti-s-writings
-url: https://github.com/MaddalenaZaglio/Camillo-V.-Facchinetti-s-writings-
 authors:
-  - name: Maddalena
-    surname: Zaglio
-    roles:
-      - transcriber
-      - project-manager
-institutions: []
-description: 'Four writings by Apostolic Vicar of Tripolitania, Libya (1936-1950). '
-project-name: FoNDUE
-language:
-  - ita
-production-software: EScriptorium + Kraken
+- name: Maddalena
+  roles:
+  - transcriber
+  - project-manager
+  surname: Zaglio
 automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1936'
-  notAfter: '1950'
+characters:
+  members:
+  - e
+  - a
+  - i
+  - o
+  - r
+  - n
+  - t
+  - l
+  - s
+  - c
+  - d
+  - u
+  - p
+  - m
+  - v
+  - ','
+  - g
+  - h
+  - f
+  - b
+  - z
+  - .
+  - ̀
+  - ¬
+  - q
+  - I
+  - '-'
+  - C
+  - A
+  - "'"
+  - P
+  - '"'
+  - S
+  - ’
+  - L
+  - M
+  - E
+  - ;
+  - T
+  - '='
+  - R
+  - V
+  - D
+  - G
+  - O
+  - ':'
+  - N
+  - '1'
+  - '!'
+  - )
+  - (
+  - B
+  - '['
+  - ']'
+  - '4'
+  - F
+  - Q
+  - '2'
+  - '9'
+  - U
+  - '0'
+  - '3'
+  - '5'
+  - '?'
+  - ⬪
+  - y
+  - °
+  - k
+  - ᗅ
+  - x
+  - H
+  - Z
+  - X
+  - K
+  - W
+  - '8'
+  - '6'
+  - “
+  - '7'
+  - ᑕ
+  - ᗞ
+  - w
+  mode: NFD
+description: 'Four writings by Apostolic Vicar of Tripolitania, Libya (1936-1950). '
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- ita
 license:
+<<<<<<< HEAD
   type: CC-BY
   version: 4.0
 format: Alto-XML
+=======
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: EScriptorium + Kraken
+project-name: FoNDUE
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1950'
+  notBefore: '1936'
+title: Camillo-V.-Facchinetti-s-writings
+url: https://github.com/MaddalenaZaglio/Camillo-V.-Facchinetti-s-writings-
+>>>>>>> 3d086089b1e00afb6878aa06b7ed90e7102d57b8
 volume:
-  - metric: pages
-    count: 20
+- count: 44914
+  metric: characters
+- count: 20
+  metric: files
+- count: 909
+  metric: lines
+- count: 20
+  metric: pages
+- count: 45
+  metric: regions

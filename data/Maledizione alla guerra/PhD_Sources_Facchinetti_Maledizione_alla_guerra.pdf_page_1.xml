@@ -35,18 +35,18 @@
           
           
           <TextLine ID="eSc_line_794e3590"
-                    
-                    BASELINE="1272 96 1402 85" 
-                    HPOS="1265"
-                    VPOS="44"
-                    WIDTH="135"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="1270 93 1270 107 1400 107 1400 82 1391 44 1265 44 1270 93"/></Shape>
+                    TAGREFS="LT645"
+                    BASELINE="1269 90 1402 90" 
+                    HPOS="1268"
+                    VPOS="46"
+                    WIDTH="132"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1268 88 1268 107 1397 110 1400 88 1400 55 1268 46 1268 88"/></Shape>
 	    <String CONTENT="-1-"
-                    HPOS="1265"
-                    VPOS="44"
-                    WIDTH="135"
-                    HEIGHT="63"></String>
+                    HPOS="1268"
+                    VPOS="46"
+                    WIDTH="132"
+                    HEIGHT="64"></String>
           </TextLine>
 
           
