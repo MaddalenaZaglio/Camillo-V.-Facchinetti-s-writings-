@@ -109,7 +109,7 @@
                     VPOS="442"
                     WIDTH="1676"
                     HEIGHT="91">
-            <Shape><Polygon POINTS="522 492 519 503 2189 533 2195 522 2195 475 522 442 522 492"/></Shape>
+            <Shape><Polygon POINTS="519 503 2189 533 2195 522 2195 475 522 442 522 492"/></Shape>
 	    <String CONTENT="Si trascorse la notte a bordo e la mattina, per tempo, venne"
                     HPOS="519"
                     VPOS="442"
@@ -990,7 +990,7 @@
           
           
           <TextLine ID="eSc_line_7f8d10ca"
-                    TAGREFS="LT680"
+                    TAGREFS="LT678"
                     BASELINE="1801 181 1979 172" 
                     HPOS="1793"
                     VPOS="107"
