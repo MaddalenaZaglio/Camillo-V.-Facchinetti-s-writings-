@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1750" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1801" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1802" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1749" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1750" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1801" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1802" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1892" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
     <OtherTag ID="LT692" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT693" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT694" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT695" LABEL="CustomLine:footnotes" DESCRIPTION="line type CustomLine:footnotes"/>
   </Tags>
   
@@ -30,7 +30,7 @@
                    WIDTH="1903"
                    HEIGHT="2586"
                    ID="eSc_textblock_e7fa7d81"
-                   TAGREFS="BT1750">
+                   TAGREFS="BT1892">
           <Shape><Polygon POINTS="385 340 385 2926 2288 2926 2288 340"/></Shape>
           
           
@@ -58,7 +58,7 @@
                     VPOS="528"
                     WIDTH="786"
                     HEIGHT="90">
-            <Shape><Polygon POINTS="1537 550 761 528 761 588 759 605 1540 618 1545 602 1545 599 1537 550"/></Shape>
+            <Shape><Polygon POINTS="761 528 761 588 759 605 1540 618 1545 602 1545 599 1537 550"/></Shape>
 	    <String CONTENT="Vicario Apostolico di Tripoli"
                     HPOS="759"
                     VPOS="528"
@@ -75,7 +75,7 @@
                     VPOS="1111"
                     WIDTH="509"
                     HEIGHT="71">
-            <Shape><Polygon POINTS="1232 1111 1204 1111 1177 1111 1149 1111 753 1111 737 1127 737 1157 737 1177 1243 1182 1246 1157 1246 1111 1232 1111"/></Shape>
+            <Shape><Polygon POINTS="1204 1111 1177 1111 1149 1111 753 1111 737 1127 737 1157 737 1177 1243 1182 1246 1157 1246 1111 1232 1111"/></Shape>
 	    <String CONTENT="Le mie disavventure"
                     HPOS="737"
                     VPOS="1111"
